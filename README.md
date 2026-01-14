@@ -2,3 +2,5 @@
 - Baking Powder
 - Eggs
 - Oats
+- Flour
+- Vanilla
